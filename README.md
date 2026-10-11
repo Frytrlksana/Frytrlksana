@@ -69,7 +69,28 @@ developer:
 ---
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Clines) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@Frytrlksana_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ferry Trilaksana) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ferrytrilaksanaputra@gmai.com) 
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ferry-trilaksana-aa44b9219/?isSelfProfile=true" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://discord.gg/Clines" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=discord" height="42" alt="Discord" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/Frytrlksana_" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=instagram" height="42" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="mailto:ferrytrilaksanaputra@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Frytrlksana" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub" />
+  </a>
+</div>
 
 # 💻 Tech Stack:
 ---
