@@ -1,7 +1,7 @@
 <!-- 🌌 NFT ART x TECH | HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0D1117,30:240046,65:7B2CBF,100:00F5D4&height=220&section=header&text=FRYTRLKSANA&fontSize=62&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=NFT%20ART%20%7C%20FULL%20STACK%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEER&descSize=14&descAlignY=58&descColor=00F5D4" width="100%" alt="NFT Art Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0B132B,25:1C2541,60:1D4ED8,100:3A86FF&height=220&section=header&text=FRYTRLKSANA&fontSize=62&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=NFT%20ART%20%7C%20FULL%20STACK%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEER&descSize=14&descAlignY=58&descColor=FFFFFF" width="100%" alt="NFT Art Header"/>
 
 <br/>
 
@@ -12,14 +12,14 @@
 <br/>
 
 <a href="https://github.com/Frytrlksana">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=750&height=50&lines=Hi%2C+I'm+Ferry%2C+Full+Stack+Developer+%26+Software+Engineer;Building+High-Performance+and+Scalable+Systems;I'm+Tech+Enthusiast" alt="Animated Developer Introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&height=50&lines=Hi%2C+I'm+Ferry%2C+Full+Stack+Developer+%26+Software+Engineer;Building+High-Performance+and+Scalable+Systems;I'm+Tech+Enthusiast" alt="Animated Developer Introduction" />
 </a>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NFT-Digital_Art-9D4EDD?style=for-the-badge&logo=ethereum&logoColor=white" alt="NFT Art"/>
-  <img src="https://img.shields.io/badge/Web3-Builder-00B4D8?style=for-the-badge&logo=opensea&logoColor=white" alt="Web3 Builder"/>
-  <img src="https://img.shields.io/badge/Tech-Enthusiast-7209B7?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Tech Enthusiast"/>
-  <img src="https://img.shields.io/badge/Systems-High_Performance-06D6A0?style=for-the-badge&logo=speedtest&logoColor=white" alt="High Performance"/>
+  <img src="https://img.shields.io/badge/NFT-Digital_Art-1E3A8A?style=for-the-badge&logo=ethereum&logoColor=white" alt="NFT Art"/>
+  <img src="https://img.shields.io/badge/Web3-Builder-0F172A?style=for-the-badge&logo=opensea&logoColor=white" alt="Web3 Builder"/>
+  <img src="https://img.shields.io/badge/Tech-Enthusiast-1C2541?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Tech Enthusiast"/>
+  <img src="https://img.shields.io/badge/Systems-High_Performance-0B132B?style=for-the-badge&logo=speedtest&logoColor=white" alt="High Performance"/>
 </p>
 
 </div>
@@ -116,5 +116,5 @@ developer:
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- 🌌 NFT ART x TECH | FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00F5D4,35:7B2CBF,70:240046,100:0D1117&height=130&section=footer" width="100%" alt="NFT Art Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:3A86FF,35:1D4ED8,70:1C2541,100:0B132B&height=130&section=footer&animation=twinkling" width="100%" alt="NFT Art Footer"/>
 </div>
