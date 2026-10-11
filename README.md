@@ -14,29 +14,6 @@
   <img src="https://img.shields.io/badge/STATUS-SYSTEM_ACTIVE_//_ONLINE-00ff41?style=for-the-badge&labelColor=0d1117&logo=matrix&logoColor=00ff41" alt="Status" />
 </p>
 
----
-
-</div>
-
-## 🟢 <b>[01] // TERMINAL_IDENTITY</b>
-
-```yaml
-┌──[ frytrlksana@matrix-node ] - [ ~ ]
-└─$ cat identity.yml
-
-developer:
-  handle: Frytrlksana
-  full_name: Ferry Trilaksana
-  specialization: Full-Stack Engineering & Cloud Architecture
-  core_stack: TypeScript, JavaScript, Python, PHP, Modern Web & Systems
-  status: "🟢 SYSTEM ONLINE // Active Contributor"
-  creed: "Code with passion, optimize with precision, dominate the matrix."
-  interests: ["High-Performance Computing", "Cloud Native", "Agentic AI", "Open Source"]
-```
-
-<br/>
-
----
 
 ## 🐍 <b>[02] // GITHUB_CONTRIBUTION_SNAKE_MATRIX</b>
 
@@ -60,21 +37,38 @@ developer:
 
 ---
 
-## 💻 <b>[03] // TECH_STACK_&_ARSENAL</b>
-
-<div align="center">
-  <p><i>Teknologi inti, bahasa pemrograman, dan framework yang digunakan dalam pengembangan sistem:</i></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,php,html,css,nodejs,react,nextjs,tailwind,bootstrap,mysql,postgres,mongodb,git,github,vscode,linux&perline=9&theme=dark" alt="Tech Stack" />
-  </a>
 </div>
+
+## 💫 <b>About Me :</b>
+
+```yaml
+┌──[ frytrlksana@matrix-node ] - [ ~ ]
+└─$ cat identity.yml
+
+developer:
+  handle: Frytrlksana
+  full_name: Ferry Trilaksana Putra
+  specialization: Full-Stack Engineering & Cloud Architecture
+  core_stack: TypeScript, JavaScript, Python, PHP, Modern Web & Systems
+  status: "🟢 SYSTEM ONLINE // Active Contributor"
+  creed: "Code with passion, optimize with precision, dominate the matrix."
+  interests: ["High-Performance Computing", "Cloud Native", "Agentic AI", "Open Source"]
+```
 
 <br/>
 
 ---
 
-## 🚀 <b>[04] // CURRENT_EXPANSION_&_STUDY</b>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Clines) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@Frytrlksana_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ferry Trilaksana) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ferrytrilaksanaputra@gmai.com) 
 
+# 💻 Tech Stack:
+---
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,php,html,css,nodejs,react,nextjs,tailwind,bootstrap,mysql,postgres,mongodb,git,github,vscode,linux&perline=9&theme=dark" alt="Tech Stack" />
+  </a>
+---
+---
 <div align="center">
   <p><i>Teknologi modern dan arsitektur tingkat lanjut yang sedang aktif didalami:</i></p>
   <a href="https://skillicons.dev">
@@ -93,71 +87,7 @@ developer:
 ```
 
 <br/>
-
 ---
-
-## 📊 <b>[05] // GITHUB_METRICS_&_MATRIX_TELEMETRY</b>
-
-<div align="center">
-
-<!-- GitHub Trophies Matrix Theme -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Frytrlksana&theme=matrix&no-frame=false&no-bg=false&margin-w=4" alt="Trophy" width="100%"/>
-</a>
-
-<br/><br/>
-
-<!-- Stats & Streak Cards in Matrix Theme -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Frytrlksana&show_icons=true&bg_color=0d1117&title_color=00ff41&text_color=a3e635&icon_color=00ff41&border_color=00ff41&hide_border=false" height="185" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Frytrlksana&background=0d1117&border=00ff41&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideNums=a3e635&sideLabels=00ff41&dates=86efac" height="185" alt="GitHub Streak" />
-</p>
-
-<!-- Top Languages in Matrix Theme -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frytrlksana&layout=compact&bg_color=0d1117&title_color=00ff41&text_color=a3e635&border_color=00ff41&hide_border=false" height="165" alt="Top Languages" />
-</p>
-
-</div>
-
-<br/>
-
----
-
-## 🌐 <b>[06] // ESTABLISH_UPLINK</b>
-
-<div align="center">
-
-<a href="https://github.com/Frytrlksana" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=002b0c" alt="GitHub" />
-</a>
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=002b0c" alt="Email" />
-</a>
-<a href="https://linkedin.com" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=002b0c" alt="LinkedIn" />
-</a>
-<a href="https://instagram.com" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00ff41&labelColor=002b0c" alt="Instagram" />
-</a>
-
-</div>
-
-<br/>
-
-<!-- Footer Matrix Animated Wave -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00ff41,25:035c24,60:02260f,100:0d1117&height=120&section=footer" width="100%"/>
-</div>
-
-# 💫 About Me:
-``yaml<br>┌──[ frytrlksana@matrix-node ] - [ ~ ]<br>└─$ cat identity.yml<br><br>developer:<br>  handle: Frytrlksana<br>  full_name: Ferry Trilaksana Putra<br>  specialization: Full-Stack Engineering & Cloud Architecture<br>  core_stack: TypeScript, JavaScript, Python, PHP, Modern Web & Systems<br>  status: "🟢 SYSTEM ONLINE // Active Contributor"<br>  creed: "Code with passion, optimize with precision, dominate the matrix."<br>  interests: ["High-Performance Computing", "Cloud Native", "Agentic AI", "Open Source"]<br>```
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Clines) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@Frytrlksana_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ferry Trilaksana) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ferrytrilaksanaputra@gmai.com) 
-
-# 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![ReScript](https://img.shields.io/badge/rescript-%2314162c?style=for-the-badge&logo=rescript&logoColor=e34c4c) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Frytrlksana&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -174,3 +104,7 @@ developer:
 [![](https://komarev.com/ghpvc/?username=Frytrlksana&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Footer Matrix Animated Wave -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00ff41,25:035c24,60:02260f,100:0d1117&height=120&section=footer" width="100%"/>
+</div>
