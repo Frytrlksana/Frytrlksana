@@ -1,18 +1,22 @@
+```html
+<!-- NFT ART x TECH | Animated Header -->
 <div align="center">
 
-<!-- Header Matrix Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0d1117,40:02260f,75:035c24,100:00ff41&height=220&section=header&text=FRYTRLKSANA&fontSize=68&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:17152E,100:5B4BDB&height=200&section=header&text=FRYTRLKSANA&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=FULL%20STACK%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEER&descSize=15&descAlignY=60&descColor=A5B4FC" width="100%" alt="Frytrlksana NFT Tech Header"/>
 
-<!-- Typing Matrix Animation -->
 <a href="https://github.com/Frytrlksana">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=700&height=85&lines=%E2%8C%A7+Welcome+to+the+Matrix+Terminal;%F0%9F%92%BB+Full-Stack+Developer+%26+Software+Engineer;%E2%9A%A1+Building+high-performance+%26+scalable+systems;%F0%9F%8E%AE+Interactive+GitHub+Snake+Contributions+below!" alt="Matrix Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3500&pause=1000&color=A5B4FC&center=true&vCenter=true&width=800&height=100&lines=Hi%2C+I'm+Ferry%2C+Full+Stack+Developer+%26+Software+Engineer;Building+High-Performance+and+Scalable+Systems;I'm+a+Tech+Enthusiast+%E2%9C%A8;Code+%E2%80%A2+Create+%E2%80%A2+Innovate" alt="Animated Developer Introduction"/>
 </a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Frytrlksana&style=for-the-badge&color=00ff41&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Frytrlksana?label=FOLLOWERS&style=for-the-badge&color=00ff41&labelColor=0d1117&logo=github&logoColor=00ff41" alt="Followers" />
-  <img src="https://img.shields.io/badge/STATUS-SYSTEM_ACTIVE_//_ONLINE-00ff41?style=for-the-badge&labelColor=0d1117&logo=matrix&logoColor=00ff41" alt="Status" />
-</p>
+<br/>
+
+<img src="https://img.shields.io/badge/NFT-Art-7C3AED?style=flat-square&logo=ethereum&logoColor=white" alt="NFT Art"/>
+<img src="https://img.shields.io/badge/Web3-Explorer-4F46E5?style=flat-square&logo=web3.js&logoColor=white" alt="Web3"/>
+<img src="https://img.shields.io/badge/Tech-Enthusiast-0891B2?style=flat-square&logo=probot&logoColor=white" alt="Tech Enthusiast"/>
+
+</div>
+```
+
 
 
 ## 🐍 <b>[02] // GITHUB_CONTRIBUTION_SNAKE_MATRIX</b>
