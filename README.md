@@ -12,7 +12,7 @@
 <br/>
 
 <a href="https://github.com/Frytrlksana">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&height=50&lines=Hi%2C+I'm+Ferry%2C+Full+Stack+Developer+%26+Software+Engineer;Building+High-Performance+and+Scalable+Systems;I'm+Tech+Enthusiast" alt="Animated Developer Introduction" />
+  <img src="./assets/typing-intro.svg" width="750" height="50" alt="Animated Developer Introduction" />
 </a>
 
 <p align="center">
