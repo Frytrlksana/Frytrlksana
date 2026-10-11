@@ -75,7 +75,7 @@ developer:
     <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://discord.gg/Clines" target="_blank" rel="noopener noreferrer">
+  <a href="https://discord.com/users/439407752893169664" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=discord" height="42" alt="Discord" />
   </a>
   &nbsp;
