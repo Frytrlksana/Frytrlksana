@@ -17,6 +17,7 @@ jobs:
     steps:
       - name: General & Languages Metrics
         uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
           token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           user: Frytrlksana
