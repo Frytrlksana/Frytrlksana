@@ -1,7 +1,7 @@
 <!-- 🌌 NFT ART x TECH | HEADER -->
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="NFT Art Ocean Wave Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,25:1C2541,60:1D4ED8,100:3A86FF&height=220&section=header&text=FRYTRLKSANA&fontSize=62&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=NFT%20ART%20%7C%20FULL%20STACK%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEER&descSize=14&descAlignY=58&descColor=FFFFFF" width="100%" alt="NFT Art Header"/>
 
 <br/>
 
@@ -137,5 +137,5 @@ developer:
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- 🌌 NFT ART x TECH | FOOTER -->
 <div align="center">
-  <img src="./assets/footer.svg" width="100%" alt="NFT Art Ocean Wave Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A86FF,35:1D4ED8,70:1C2541,100:0B132B&height=130&section=footer&animation=twinkling" width="100%" alt="NFT Art Footer"/>
 </div>
