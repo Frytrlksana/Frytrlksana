@@ -137,5 +137,5 @@ developer:
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- 🌌 NFT ART x TECH | FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:3A86FF,40:1D4ED8,75:0B132B,100:000000&height=130&section=footer" width="100%" alt="NFT Art Footer"/>
+  <img src="./assets/footer.svg" width="100%" alt="NFT Art Ocean Wave Footer"/>
 </div>
