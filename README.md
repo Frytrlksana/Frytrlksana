@@ -95,32 +95,9 @@ developer:
 
 # 💻 Tech Stack:
 ---
-<div align="center">
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,php,html,css,nodejs,react,nextjs,tailwind,bootstrap,mysql,postgres,mongodb,git,github,vscode,linux&perline=9&theme=dark" alt="Tech Stack" />
-  </a>
-</div>
 
 <div align="center">
-  <p><i>Teknologi modern dan arsitektur tingkat lanjut yang sedang aktif didalami:</i></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,go,docker,kubernetes,aws,gcp,graphql,redis&perline=8&theme=dark" alt="Learning Tech Stack" />
-  </a>
-</div>
-
-<br/>
-
-```text
-┌──[ 🌐 MATRIX RESEARCH & ENGINEERING FOCUS ]
-├── 🦀 Rust & Go               ──> Pemrograman sistem berperforma tinggi & microservices
-├── 🐳 Docker & Kubernetes      ──> Containerization & cloud-native orchestration
-├── ☁️ AWS & GCP Cloud          ──> Serverless architecture, resilience & DevOps CI/CD
-└── 🤖 Artificial Intelligence  ──> LLM integration, Agentic workflows & data processing
-```
-
-<br/>
-
-<div align="center">
+ <p><i>Teknologi modern dan arsitektur tingkat lanjut yang sedang aktif didalami:</i></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,html,js,php,py,powershell,ts,windows,vercel,gcp,cloudflare,dotnet,bootstrap,express,laravel,jquery,npm,nestjs,nextjs,nodejs,react,tailwind,vue,vite,yarn,nginx,redis,mongodb,mysql,figma,git,github,gitlab,gradle,postman,unity&perline=10&theme=dark" alt="Technologies & Tools" />
   </a>
