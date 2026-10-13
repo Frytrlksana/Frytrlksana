@@ -142,8 +142,7 @@ developer:
 ---
 [![](https://komarev.com/ghpvc/?username=Frytrlksana&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- 🌌 DATA ANALYST x TECH | FOOTER -->
-<div align="center"> 
+
+<!-- <div align="center"> 
   <img src="./assets/footer.svg" width="100%" alt="Data Analyst Ocean Wave Footer"/>
-</div>
+</div> -->
