@@ -106,9 +106,12 @@ developer:
 <br/>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Frytrlksana&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Frytrlksana&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Frytrlksana&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Frytrlksana&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Frytrlksana&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Frytrlksana&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Frytrlksana&theme=radical&no-frame=false&no-bg=true&margin-w=4)
